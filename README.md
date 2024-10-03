@@ -1,10 +1,5 @@
 ## Hi there 👋, Im Conner Cordell
 
-<!--
-**Bonnieman222/Bonnieman222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Schoolwork.
 - 🌱 I’m currently learning Fundamentals of Technology
 - 👯 I’m looking to collaborate on nothing at the moment
@@ -15,4 +10,3 @@ Here are some ideas to get you started:
 - 🤯 Sleep is for those who sleep 🤯   
     🦾🥔🦾    
       🦿🦿
--->
